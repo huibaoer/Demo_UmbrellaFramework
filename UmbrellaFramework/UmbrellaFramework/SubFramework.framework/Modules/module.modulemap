@@ -1,0 +1,6 @@
+framework module SubFramework {
+  umbrella header "SubFramework.h"
+
+  export *
+  module * { export * }
+}
